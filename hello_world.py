@@ -1,1 +1,1 @@
-print("Hello Week 0")
+print("Hello Week 0!")
